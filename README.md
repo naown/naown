@@ -1,5 +1,3 @@
-<h2 align="center">Hi 👋</h2
-
 <!--
 **naown/naown** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
